@@ -1,1 +1,5 @@
 Ejercicio sobre git para IT Academy de Barcelona Activa.
+
+Exercici sobre git per a IT Academy.
+
+git exercise for IT Academy.
