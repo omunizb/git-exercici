@@ -1,1 +1,1 @@
-Ejercicio sobre git para IT Academy.
+Ejercicio sobre git para IT Academy de Barcelona Activa.
